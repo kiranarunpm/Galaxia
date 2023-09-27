@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Galaxia/Pods-Galaxia-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AlignedCollectionViewFlowLayout/AlignedCollectionViewFlowLayout.framework
+${BUILT_PRODUCTS_DIR}/Kingfisher/Kingfisher.framework
+${BUILT_PRODUCTS_DIR}/MBProgressHUD/MBProgressHUD.framework

@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "_x31_7_x2C__Astronomy_x2C__eclipse_x2C__moon_x2C__weather_x2C__lunar.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

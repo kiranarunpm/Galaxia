@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1B861A1E-FFCE-4834-B702-97C4BDD8F2D1"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F90A5D2-352C-4E8B-AFDD-3849C49EDC37"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Galaxia/SupportClass/UINavigationController+Extension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "preferredStatusBarStyle"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "89EED208-8EB8-42A5-A700-F87096D2D9D6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Galaxia/ViewController/ListingVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "153"
+            endingLineNumber = "153"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "216BE08B-CD44-46C0-84E0-B2666C0ED10E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Galaxia/ViewController/ListingVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "152"
+            endingLineNumber = "152"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "216BE08B-CD44-46C0-84E0-B2666C0ED10E - 329411f2bf08cf2c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Galaxia.ListingVC.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Galaxia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kiran/Desktop/Galaxia/Galaxia/ViewController/ListingVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "216BE08B-CD44-46C0-84E0-B2666C0ED10E - 329411f2bf08ceee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Galaxia.ListingVC.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Galaxia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kiran/Desktop/Galaxia/Galaxia/ViewController/ListingVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "152"
+                  endingLineNumber = "152"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9375CABC-7E8E-443E-9946-6B09420FD4BF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Galaxia/SupportClass/RoundedTabBarController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "tabBar(_:didSelect:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "54A78AE4-9034-40B9-BDF9-E30DF1401DE9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Galaxia/ViewController/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "collectionView(_:willDisplay:forItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "54A78AE4-9034-40B9-BDF9-E30DF1401DE9 - 2682b964e035aa84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Galaxia.HomeVC.collectionView(_: __C.UICollectionView, willDisplay: __C.UICollectionViewCell, forItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Galaxia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kiran/Desktop/Galaxia/Galaxia/ViewController/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "54A78AE4-9034-40B9-BDF9-E30DF1401DE9 - 2682b964e035aae1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Galaxia.HomeVC.collectionView(_: __C.UICollectionView, willDisplay: __C.UICollectionViewCell, forItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Galaxia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kiran/Desktop/Galaxia/Galaxia/ViewController/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "268">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E67AE31A-3910-46F2-84FB-EE9352F11F51"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Galaxia/ViewController/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "collectionView(_:willDisplay:forItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E67AE31A-3910-46F2-84FB-EE9352F11F51 - 2682b964e035aac2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Galaxia.HomeVC.collectionView(_: __C.UICollectionView, willDisplay: __C.UICollectionViewCell, forItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Galaxia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kiran/Desktop/Galaxia/Galaxia/ViewController/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "916">
+               </Location>
+               <Location
+                  uuid = "E67AE31A-3910-46F2-84FB-EE9352F11F51 - 2682b964e035aac2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Galaxia.HomeVC.collectionView(_: __C.UICollectionView, willDisplay: __C.UICollectionViewCell, forItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Galaxia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kiran/Desktop/Galaxia/Galaxia/ViewController/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "1044">
+               </Location>
+               <Location
+                  uuid = "E67AE31A-3910-46F2-84FB-EE9352F11F51 - 2682b964e035aa3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Galaxia.HomeVC.collectionView(_: __C.UICollectionView, willDisplay: __C.UICollectionViewCell, forItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Galaxia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kiran/Desktop/Galaxia/Galaxia/ViewController/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "1044">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2441595D-8EEB-43E6-B749-91624FC2EFF2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Galaxia/ViewController/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "collectionView(_:willDisplay:forItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2441595D-8EEB-43E6-B749-91624FC2EFF2 - 2682b964e035aaa3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Galaxia.HomeVC.collectionView(_: __C.UICollectionView, willDisplay: __C.UICollectionViewCell, forItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Galaxia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kiran/Desktop/Galaxia/Galaxia/ViewController/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "580">
+               </Location>
+               <Location
+                  uuid = "2441595D-8EEB-43E6-B749-91624FC2EFF2 - 2682b964e035aa00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Galaxia.HomeVC.collectionView(_: __C.UICollectionView, willDisplay: __C.UICollectionViewCell, forItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Galaxia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kiran/Desktop/Galaxia/Galaxia/ViewController/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "580">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EBD04D22-DF91-4B08-85C0-1AF153E74F66"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Galaxia/ViewController/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EBD04D22-DF91-4B08-85C0-1AF153E74F66 - e0c106d7341102ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Galaxia.HomeVC.viewDidLoad() -&gt; ()"
+                  moduleName = "Galaxia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kiran/Desktop/Galaxia/Galaxia/ViewController/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "EBD04D22-DF91-4B08-85C0-1AF153E74F66 - e0c106d73411030b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Galaxia.HomeVC.viewDidLoad() -&gt; ()"
+                  moduleName = "Galaxia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kiran/Desktop/Galaxia/Galaxia/ViewController/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E7DD219-6479-45C6-A887-4465D52F02D4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Galaxia/SupportClass/RoundedTabBarController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "206828D4-7F82-4E1E-B2E4-4D8313C3F81D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Galaxia/SupportClass/RoundedTabBarController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B94C2B46-7615-469A-96A2-CC5F86524A2C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Galaxia/SupportClass/RoundedTabBarController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B94C2B46-7615-469A-96A2-CC5F86524A2C - fb78f8fee1da05f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (__C.UITabBarItem) -&gt; () in Galaxia.RoundedTabBarController.viewDidLoad() -&gt; ()"
+                  moduleName = "Galaxia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kiran/Desktop/Galaxia/Galaxia/SupportClass/RoundedTabBarController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "B94C2B46-7615-469A-96A2-CC5F86524A2C - d5fae8bd2c90e655"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Galaxia.RoundedTabBarController.viewDidLoad() -&gt; ()"
+                  moduleName = "Galaxia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kiran/Desktop/Galaxia/Galaxia/SupportClass/RoundedTabBarController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "3460">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

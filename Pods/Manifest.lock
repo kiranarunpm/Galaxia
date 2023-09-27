@@ -1,0 +1,24 @@
+PODS:
+  - AlignedCollectionViewFlowLayout (1.1.2)
+  - Kingfisher (7.9.0)
+  - MBProgressHUD (1.2.0)
+
+DEPENDENCIES:
+  - AlignedCollectionViewFlowLayout
+  - Kingfisher (~> 7.9)
+  - MBProgressHUD (~> 1.2.0)
+
+SPEC REPOS:
+  trunk:
+    - AlignedCollectionViewFlowLayout
+    - Kingfisher
+    - MBProgressHUD
+
+SPEC CHECKSUMS:
+  AlignedCollectionViewFlowLayout: ee2ef451e741ec08f8e0967d828001e2f051c20a
+  Kingfisher: 59f908b6d2f403b0a3e539debb0eec05cb27002c
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+
+PODFILE CHECKSUM: e2c4cae3b3b5743d767cc49fc3d9f8ed58924b06
+
+COCOAPODS: 1.12.1

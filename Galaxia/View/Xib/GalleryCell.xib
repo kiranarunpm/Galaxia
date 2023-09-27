@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21679"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="GalleryCell" id="gTV-IL-0wX" customClass="GalleryCell" customModule="Galaxia" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="339" height="198"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="339" height="198"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="KWA-XT-f6v">
+                        <rect key="frame" x="0.0" y="0.0" width="339" height="198"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Psh-On-QGd" customClass="R_UIView" customModule="Galaxia" customModuleProvider="target">
+                                <rect key="frame" x="25" y="148" width="289" height="50"/>
+                                <color key="backgroundColor" name="secondary_color"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="kOd-eQ-u4I"/>
+                                </constraints>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                        <real key="value" value="12"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="6nd-7n-0gt" customClass="R_UIView" customModule="Galaxia" customModuleProvider="target">
+                                <rect key="frame" x="0.0" y="0.0" width="339" height="186"/>
+                                <subviews>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="image 3" translatesAutoresizingMaskIntoConstraints="NO" id="jqc-r9-Lr2">
+                                        <rect key="frame" x="0.0" y="0.0" width="339" height="186"/>
+                                    </imageView>
+                                </subviews>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstItem="jqc-r9-Lr2" firstAttribute="leading" secondItem="6nd-7n-0gt" secondAttribute="leading" id="Azb-wY-GeQ"/>
+                                    <constraint firstItem="jqc-r9-Lr2" firstAttribute="top" secondItem="6nd-7n-0gt" secondAttribute="top" id="Siz-w2-cA3"/>
+                                    <constraint firstAttribute="bottom" secondItem="jqc-r9-Lr2" secondAttribute="bottom" id="YSh-6X-FfY"/>
+                                    <constraint firstAttribute="trailing" secondItem="jqc-r9-Lr2" secondAttribute="trailing" id="iKJ-x5-WRM"/>
+                                </constraints>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                        <real key="value" value="22"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="6nd-7n-0gt" firstAttribute="leading" secondItem="KWA-XT-f6v" secondAttribute="leading" id="7Ex-eP-jYk"/>
+                            <constraint firstAttribute="trailing" secondItem="Psh-On-QGd" secondAttribute="trailing" constant="25" id="7v8-6M-ti7"/>
+                            <constraint firstAttribute="trailing" secondItem="6nd-7n-0gt" secondAttribute="trailing" id="Dcp-uA-u3T"/>
+                            <constraint firstAttribute="bottom" secondItem="6nd-7n-0gt" secondAttribute="bottom" constant="12" id="bro-bm-YjS"/>
+                            <constraint firstItem="6nd-7n-0gt" firstAttribute="top" secondItem="KWA-XT-f6v" secondAttribute="top" id="e8A-1J-VE2"/>
+                            <constraint firstItem="Psh-On-QGd" firstAttribute="leading" secondItem="KWA-XT-f6v" secondAttribute="leading" constant="25" id="nsR-q0-dEi"/>
+                            <constraint firstAttribute="bottom" secondItem="Psh-On-QGd" secondAttribute="bottom" id="pgS-Dp-aAm"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <constraints>
+                <constraint firstItem="KWA-XT-f6v" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="BaP-Bj-2hY"/>
+                <constraint firstItem="KWA-XT-f6v" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="NU5-B8-evH"/>
+                <constraint firstAttribute="trailing" secondItem="KWA-XT-f6v" secondAttribute="trailing" id="Nnq-XC-haq"/>
+                <constraint firstAttribute="bottom" secondItem="KWA-XT-f6v" secondAttribute="bottom" id="UMK-PY-uwi"/>
+            </constraints>
+            <size key="customSize" width="339" height="198"/>
+            <point key="canvasLocation" x="257.25190839694653" y="67.605633802816911"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="image 3" width="1018" height="555"/>
+        <namedColor name="secondary_color">
+            <color red="0.14100000262260437" green="0.14900000393390656" blue="0.20399999618530273" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>
